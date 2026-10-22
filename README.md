@@ -50,7 +50,7 @@ Python, pandas, NumPy, matplotlib, seaborn, Jupyter / Google Colab
 | File | Description |
 |------|-------------|
 | `online_retail_eda.ipynb` | Full analysis notebook |
-| `charts/` | Saved visualizations |
+| `Charts/` | Saved visualizations |
 | `Online_Retail_EDA_Purple.pptx` | Project presentation |
 
 ## How to Run
