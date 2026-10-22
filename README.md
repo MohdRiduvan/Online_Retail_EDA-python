@@ -51,7 +51,7 @@ Python, pandas, NumPy, matplotlib, seaborn, Jupyter / Google Colab
 |------|-------------|
 | `online_retail_eda.ipynb` | Full analysis notebook |
 | `Charts/` | Saved visualizations |
-| `Online_Retail_EDA_Purple.pptx` | Project presentation |
+| `Online_Retail_EDA_Purple.pdf` | Project presentation |
 
 ## How to Run
 1. Download the dataset from Kaggle and place the CSV in the same folder as the notebook
